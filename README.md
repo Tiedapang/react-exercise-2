@@ -10,6 +10,7 @@ npm install
 
 ```
 npm start
+ npm run start-pc
 ```
 
 3.启动Json Server http://localhost:3000

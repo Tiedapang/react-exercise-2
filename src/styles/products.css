@@ -1,0 +1,37 @@
+.products p{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 20px 20px 0 20px;
+}
+.products img{
+    width: 160px;
+    height: 160px;
+}
+.iphoneItems div{
+    float: left;
+    padding:0px 20px 30px 20px;
+}
+.products .titleName{
+    font-size: 16px;
+    font-weight: bold;
+}
+.huaweiItems div{
+    float: left;
+    padding:0px 20px 30px 20px;
+}
+.iphoneItems p{
+    margin-left: -5px;
+    font-size: 18px;
+}
+.huaweiItems p{
+    margin-left: -5px;
+    font-size: 18px;
+}
+ button{
+    width: 100px;
+    height: 30px;
+    background-color: #096ee3;
+    border: #096ee3;
+    float: right;
+    margin-top: -20px;
+}
